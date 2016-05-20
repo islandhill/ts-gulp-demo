@@ -2,8 +2,8 @@
 
 ## Set up
 
-### Install gulp and babel
-npm install -g gulp
+### Install gulp cli
+npm install -g gulp-cli
 
-## Gulp tasks
+### Gulp tasks
 gulp --tasks
